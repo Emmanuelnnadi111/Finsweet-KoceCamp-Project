@@ -115,7 +115,7 @@ h1 {
 }
 
 .section1-image  {
-   background-image: url(../images/Image.png);
+   background-image: url("/images/Image.png");
    background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
@@ -336,7 +336,7 @@ input {
 }
 
 .first-row {
-    background-image: url(../images/Image\ 1.png);
+    background-image: url("../images/Image\ 1.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -346,7 +346,7 @@ input {
 }
 
 .second-row {
-    background-image: url(../images/ovGrEUgrkyE.jpg);
+    background-image: url("../images/ovGrEUgrkyE.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
