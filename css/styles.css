@@ -79,6 +79,7 @@ nav ul li {
     height: 100%;
     width: 100%;
     position: relative;
+    background-position: center;
 }
 
 h1 {
