@@ -671,6 +671,7 @@ footer {
         width: 90%;
         margin: 0 auto;
     }
+    
     .text h1 {
         padding: 0;
         font-size: 20px;
@@ -683,13 +684,14 @@ footer {
         height: 60%;
     }
     .rating {
-        top: 10rem;
+        top: 9rem;
         bottom: 0;
         left: 7rem;
         height: 60%;
     }
     .section-2 {
         height: 100vh;
+        padding-bottom: 44rem;
     }
     .sub-container {
         flex-direction: column;
@@ -708,12 +710,15 @@ footer {
     .quote-car {
         padding: 0;
         margin-top: 1rem;
+        height: 100vh;
+       
     }
     .first-service,
     .second-service,
     .third-service {
     margin-top: 0.5rem;
     }
+   
     .section-three {
         height: 100vh;
     }
@@ -730,10 +735,11 @@ footer {
     }
     .section-four {
         height: 100vh;
+       margin-bottom: 5rem;
     }
     .section-four-container {
         height: 100vh;
-        width: 100%;
+        width: 100%; 
     }
 
     .title h1{
@@ -745,6 +751,7 @@ footer {
     }
     .contents {
         padding: 2rem;
+    
     }
 
     .section-five {
@@ -828,6 +835,7 @@ footer {
     }
     .faq {
      height: 100vh;
+     margin-bottom: 5rem;
     }
     .faq-wrap {
         width: 100%;
@@ -919,7 +927,7 @@ footer {
     }
     
     .section-bg {
-        background-image: url("/images/Image.png");
+        background-image: url("/images/Image\ 1\ \(2\).png");
         background-repeat: no-repeat;
         background-size: cover;
         height: 100%;
